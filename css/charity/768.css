@@ -169,6 +169,7 @@
 
 	.wrap_cf .wpcf7-form input[type="text"],
 	.wrap_cf .wpcf7-form input[type="email"],
+	.wrap_cf .wpcf7-form input[type="tel"],
 	.wrap_cf .wpcf7-form input[type="number"],
 	.wrap_cf .wpcf7-form textarea {
 	  width: 90.5%;

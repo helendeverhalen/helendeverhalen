@@ -5036,8 +5036,10 @@ text-overflow: ellipsis; -o-text-overflow: ellipsis; -icab-text-overflow: ellips
   width: 84%;
 }
 
-input[type="text"]:focus, input[type="email"]:focus,
-input[type="phone"]:focus, input[type="tel"]:focus,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="phone"]:focus,
+input[type="tel"]:focus,
 textarea:focus {
   -webkit-box-shadow: none !important;
   -moz-box-shadow: none !important;
@@ -5264,6 +5266,7 @@ div.wpcf7-response-output {
 
 .wrap_cf .wpcf7-form input[type="text"],
 .wrap_cf .wpcf7-form input[type="email"],
+.wrap_cf .wpcf7-form input[type="tel"],
 .wrap_cf .wpcf7-form input[type="number"],
 .wrap_cf .wpcf7-form textarea {
   width: 87.7%;
@@ -5289,6 +5292,7 @@ div.wpcf7-response-output {
 }
 .wrap_cf .wpcf7-form input[type="text"]:focus,
 .wrap_cf .wpcf7-form input[type="email"]:focus,
+.wrap_cf .wpcf7-form input[type="tel"]:focus,
 .wrap_cf .wpcf7-form input[type="number"]:focus,
 .wrap_cf .wpcf7-form textarea:focus {
   -webkit-box-shadow: none;

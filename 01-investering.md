@@ -23,9 +23,13 @@ De AGB-code van Bureau JIP is 90-50036.
 
 BTW.nummer: NL8196.17.167.BO1
 
+## &nbsp;
+
 ## Aftrekpost voor de inkomstenbelasting
 
 Onder de noemer Psychosociale hulpverlening/begeleiding kunnen de sessies bij de inkomstenbelasting opgegeven&nbsp;worden, waardoor het ook voor mensen zonder vergoedingsmogelijkheden betaalbaar blijft.
+
+## &nbsp;
 
 ## PGB
 
@@ -33,13 +37,19 @@ AD(H)D, Autisme
 
 Met een verklaring die aangeeft&nbsp;dat uw kind een diagnose heeft van&nbsp;bijvoorbeeld AD(H)D of autisme, kunt u in aanmerking komen voor een Persoonsgebonden Budget (PGB). Zie ook [www.pgb.nl](http://www.pgb.nl)
 
+## &nbsp;
+
 ## Gemeente
 
 Informeer bij uw eigen gemeente naar de mogelijkheden om tegemoetkoming in de kosten te verkrijgen.
 
+## &nbsp;
+
 ## Investering
 
 Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur.
+
+## &nbsp;
 
 ## Klacht
 

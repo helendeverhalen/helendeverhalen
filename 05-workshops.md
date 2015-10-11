@@ -17,8 +17,16 @@ Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en
 
 ## Schrijf je blij
 
-Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP. *[Lees meer..](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf).*en*……*Sarine Zijderveld schrijft er ook over. [*Lees het&nbsp;in de Glossy.*](/assets/downloads/schrijfhetmooienaarjetoe.pdf)
+Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP
+
+[Lees hier meer over](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
+
+Sarine Zijderveld schrijft er ook over.
+
+[Lees het&nbsp;in de Glossy](/assets/downloads/schrijfhetmooienaarjetoe.pdf)
 
 ## Cursus ‘emoties en gewicht’
 
-Omgaan met stress en ook nog je gewicht beheersen? [*Klik hier voor meer informatie.*](/assets/downloads/workshop-gevoel-eten.pdf)
+Omgaan met stress en ook nog je gewicht beheersen?
+
+[Klik hier voor meer informatie](/assets/downloads/workshop-gevoel-eten.pdf)

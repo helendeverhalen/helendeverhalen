@@ -15,7 +15,7 @@ Bureau JIP begeleidt kinderen/jongeren die, om wat voor reden dan ook, geremd wo
 
 Wij begeleiden kinderen en jongeren die
 
-* nare gedachten over zichzelf hebben, zoals ‘ik kan het toch niet’ of ‘ze moeten mij weer hebben’.
+* nare gedachten over zichzelf hebben, zoals ‘ik kan het toch niet’ of ‘ze moeten mij weer hebben’
 * zich verdrietig, bang, of eenzaam voelen
 * zich naar voelen, zonder te weten waarom
 * niet goed weten hoe ze vriendjes moeten maken
@@ -29,6 +29,6 @@ Wij begeleiden kinderen en jongeren die
 
 Door onze begeleiding gaan de kinderen/jongeren z&eacute;lf aan de slag. Ze gaan ervaren dat ze helemaal ok&eacute; zijn, en dat sommige dingen moeilijk voor ze zijn.
 
-Samen met de ouders kijken we wat goed is voor hun kind. Medewerking van de ouders is onmisbaar. Ouders kennen hun kind als geen ander. Daarom hebben we graag intens contact met de ouders: een intakegesprek vooraf, daarna regelmatig oudergesprekken, emailcontact. Na elke sessie hebben we een kort overleg met alle ouders.
+Samen met de ouders kijken we wat goed is voor hun kind. Medewerking van de ouders is onmisbaar. Ouders kennen hun kind als geen ander. Daarom hebben we graag intens contact met de ouders: een intakegesprek vooraf, daarna regelmatig oudergesprekken, emailcontact. We staan open voor feedback.
 
 Kosten per sessie:  60 euro

@@ -25,7 +25,7 @@ Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP.
 
 [Lees hier meer over](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
 
-Sarine Zijderveld schrijft er ook over.
+Sarine Zijderveld organiseert elke maand een 'schrijfcafe'.
 
 [Lees het&nbsp;in de Glossy](/assets/downloads/schrijfhetmooienaarjetoe.pdf)
 

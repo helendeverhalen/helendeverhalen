@@ -17,7 +17,7 @@ image-position: top
 
 # Methodieken
 
-Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma. Voor de volledigheid lichten we een aantal van deze methodes toe:
+Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), neurofeedback, KIES, axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma, Alle Sterren van de Hemel.&nbsp;Voor de volledigheid lichten we een aantal van deze methodes toe:
 
 ## &nbsp;
 
@@ -47,7 +47,13 @@ Meer over [K.I.E.S. bij JIP](/downloads/)
 
 De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdekken, dat je bijvoorbeeld soms als een schildpad kan reageren als je je bang voelt. Je trekt je dan terug. Andere kinderen vertonen bij een bang gevoel het gedrag van een steenbok: ze slaan en schoppen. Soms is het handig om initiatief te tonen, zoals een leeuw dat kan. Op een ander moment kan het gewoon handig zijn om als een kameel maar gewoon te volgen. Kinderen leren door middel van de Axenroos, dat alle gevoelens ok&eacute; zijn, en dat bepaald gedrag soms handig is, en soms gewoon niet.
 
-## &nbsp;
+## Alle Sterren van de Hemel
+
+&nbsp;
+
+Het spel '[Alle Sterren van de Hemel](http://youtu.be/J8ji3LOJT6c)' kan het gezin dat met rouw te maken heeft, verder helpen. Het bevordert de communicatie binnen het gezin.
+
+&nbsp;
 
 ## Helende verhalen
 

@@ -56,3 +56,7 @@ Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over
 Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
+
+## Duiken
+
+Sommige kinderen worden verrast met een duikervaring. Je ontdekt dan dat je meer kan, dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.

@@ -13,7 +13,7 @@ image-position: left
 
 ## School
 
-Wij helpen leerkrachten en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, [tranenkoffers](/assets/downloads/tranenkoffers.pdf), trainingen op school, en teambijeenkomsten.
+Wij helpen leerkrachten, ouders en andere professionals en leidinggevenden van sport- en jeugdverenigingen met het begeleiden van kinderen die het moeilijk hebben. Dit doen we door middel van gesprekken, [tranenkoffers](/assets/downloads/tranenkoffers.pdf), trainingen op school, en teambijeenkomsten.
 
 [Lees hier over meer](/assets/downloads/workshop-scholen.pdf)
 

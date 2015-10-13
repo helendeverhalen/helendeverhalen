@@ -49,9 +49,17 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 ## &nbsp;
 
-## Alle Sterren van de Hemel
+## Hartcoherentie
 
-&nbsp;
+Deze methodiek wordt gebruikt om stress te hanteren, je concentratie te verbeteren, met examenstress om te gaan.
+
+[Klik hier om er meer over te weten te komen](/assets/downloads/hartfocus.pdf)
+
+[en hier](/assets/downloads/onzegevoelensenemoties.pdf)
+
+## &nbsp;
+
+## Alle Sterren van de Hemel
 
 Het spel ‘[Alle Sterren van de Hemel](http://youtu.be/J8ji3LOJT6c)’ kan het gezin dat met rouw te maken heeft, verder helpen. Het bevordert de communicatie binnen het gezin.
 

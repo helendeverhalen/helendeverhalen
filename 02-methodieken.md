@@ -17,7 +17,7 @@ image-position: top
 
 # Methodieken
 
-Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), Neurofeedback, K.I.E.S, Axenroos, Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma, Alle Sterren van de Hemel.&nbsp;Voor de volledigheid lichten we een aantal van deze methodes toe:
+Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), Neurofeedback, K.I.E.S, Axenroos, Hartcoherentie,&nbsp;Helende verhalen, de [MatriXmethode](http://matrixmethodeinstituut.nl/) en Vriendenprogramma, Alle Sterren van de Hemel.&nbsp;Voor de volledigheid lichten we een aantal van deze methodes toe:
 
 ## &nbsp;
 

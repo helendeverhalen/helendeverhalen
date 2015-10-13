@@ -10,8 +10,6 @@ image-position: top
 # Hier kan je bestanden downloaden.
 
 * [coulancebrief](/assets/downloads/coulancebrief.pdf)
-* [wat is hartcoherentie](/assets/downloads/hartfocus.pdf)
-* [gevoelens en hartcoherentie](/assets/downloads/onzegevoelensenemoties.pdf)
 * [K.I.E.S en gescheiden opvoeden](/assets/downloads/KIES_gescheiden_opvoeden.pdf)
 * [K.I.E.S en grootouders](/assets/downloads/KIES_grootouders.pdf)
 * [onderzoek naar de effecten van K.I.E.S.](/assets/downloads/samenvatting-onderzoek-kies-voor-het-kind.pdf)

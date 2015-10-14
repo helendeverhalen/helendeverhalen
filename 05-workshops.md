@@ -44,3 +44,7 @@ Omgaan met stress en ook nog je gewicht beheersen?
 Tijdens de vier bijeenkomsten praten we samen over gevoelens en gedrag, grenzen en je eigen pijn, normen en waarden en hoe je je stress de baas kan worden.
 
 Een heel interessante cursus! [Contact&nbsp;ons voor informatie](/contact/)
+
+## &nbsp;
+
+## Gescheiden opvoeden

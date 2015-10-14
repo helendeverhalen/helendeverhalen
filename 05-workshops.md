@@ -49,10 +49,12 @@ Een heel interessante cursus! [Contact&nbsp;ons voor informatie](/contact/)
 
 ## Gescheiden opvoeden
 
-Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo'n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact&nbsp;met andere gescheiden ouders kan fijn en goed zijn. [Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)
+Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact&nbsp;met andere gescheiden ouders kan fijn en goed zijn. [Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)
+
+[Bekijk ook de brief van gescheiden ouders](/assets/downloads/aan alle gescheiden ouders.pdf)
 
 &nbsp;
 
-## Grootouders van 'gescheiden kleinkinderen'
+## Grootouders van ‘gescheiden kleinkinderen’
 
 Voor een kind, wiens ouders gescheiden zijn, blijft&nbsp;het plekje bij opa en oma vaak vertrouwd en veilig. [Laat dat zo blijven!](/assets/downloads/kies_grootouders.pdf)

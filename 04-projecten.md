@@ -57,6 +57,14 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
 
+## Andere uitgaven
+
+Een boekje over 'hoe je om kan gaan met je gescheiden kind'. Wil je dit boekje hebben? [Contact ons](/contact/).
+
+Een boekje over 'dat je helemaal ok&eacute; bent, wat je ook doet'.
+
+&nbsp;
+
 ## Duiken
 
 Sommige kinderen worden verrast met een duikervaring. [Je ontdekt dan dat je meer kan](/assets/downloads/ikkanveelmeerdanikdenk.pdf), dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.

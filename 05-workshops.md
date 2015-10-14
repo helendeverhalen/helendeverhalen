@@ -25,7 +25,7 @@ Elke tweede vrijdag van de maand schrijven we aan de ronde tafel bij JIP.
 
 [Lees hier meer over](/assets/downloads/schrijven-aan-de-ronde-tafel.pdf)
 
-Sarine Zijderveld organiseert elke maand een 'schrijfcafe'.
+Sarine Zijderveld organiseert elke maand een ‘schrijfcafe’.
 
 [Lees het&nbsp;in de Glossy](/assets/downloads/schrijfhetmooienaarjetoe.pdf)
 
@@ -36,3 +36,11 @@ Sarine Zijderveld organiseert elke maand een 'schrijfcafe'.
 Omgaan met stress en ook nog je gewicht beheersen?
 
 [Klik hier voor meer informatie](/assets/downloads/workshop-gevoel-eten.pdf)
+
+&nbsp;
+
+## Opvoeden, hoe doe je dat
+
+Tijdens de vier bijeenkomsten praten we samen over gevoelens en gedrag, grenzen en je eigen pijn, normen en waarden en hoe je je stress de baas kan worden.
+
+Een heel interessante cursus! [Contact&nbsp;ons voor informatie](/contact/)

@@ -47,6 +47,8 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
+![](/uploads/versions/aapjesite---x----293-199x---.jpg)
+
 ## Albani&euml;
 
 Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over gevoelens.
@@ -60,6 +62,8 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 ## Andere uitgaven
 
 Een boekje over 'hoe je om kan gaan met je gescheiden kind'. Wil je dit boekje hebben? [Contact ons](/contact/).
+
+![](/uploads/versions/semsite---x----232-177x---.jpg)
 
 Een boekje over 'dat je helemaal ok&eacute; bent, wat je ook doet'.
 

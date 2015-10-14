@@ -7,7 +7,7 @@ image2: methodieken_page2.jpg
 image-position: top
 ---
 
- &nbsp;
+![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)
 
 # Methodieken
 

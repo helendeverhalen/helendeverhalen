@@ -59,6 +59,6 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ## Duiken
 
-Sommige kinderen worden verrast met een duikervaring. Je ontdekt dan dat je meer kan, dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.
+Sommige kinderen worden verrast met een duikervaring. [Je ontdekt dan dat je meer kan](/assets/downloads/ikkanveelmeerdanikdenk.pdf), dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.
 
 ![](/uploads/versions/duiken---x----350-263x---.jpg)

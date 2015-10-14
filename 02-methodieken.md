@@ -10,10 +10,6 @@ image-position: top
 > &nbsp;
 >
 > &nbsp;
->
-> &nbsp;
->
-> # ![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)
 
 # Methodieken
 

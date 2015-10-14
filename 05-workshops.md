@@ -43,13 +43,17 @@ Omgaan met stress en ook nog je gewicht beheersen?
 
 Tijdens de vier bijeenkomsten praten we samen over gevoelens en gedrag, grenzen en je eigen pijn, normen en waarden en hoe je je stress de baas kan worden.
 
-Een heel interessante cursus! [Contact&nbsp;ons voor informatie](/contact/)
+Een heel interessante cursus!
+
+[Contact&nbsp;ons voor informatie](/contact/)
 
 ## &nbsp;
 
 ## Gescheiden opvoeden
 
-Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact&nbsp;met andere gescheiden ouders kan fijn en goed zijn. [Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)
+Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact&nbsp;met andere gescheiden ouders kan fijn en goed zijn.
+
+[Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)
 
 [Bekijk ook de brief van gescheiden ouders](/assets/downloads/aan alle gescheiden ouders.pdf)
 

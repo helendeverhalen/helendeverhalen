@@ -7,7 +7,7 @@ image2: methodieken_page2.jpg
 image-position: top
 ---
 
-## &nbsp;
+> &nbsp;
 
 # Methodieken
 

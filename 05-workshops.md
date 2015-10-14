@@ -48,3 +48,5 @@ Een heel interessante cursus! [Contact&nbsp;ons voor informatie](/contact/)
 ## &nbsp;
 
 ## Gescheiden opvoeden
+
+Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo'n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contatc met andere gescheiden ouders kan fijn en goed zijn. [Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)

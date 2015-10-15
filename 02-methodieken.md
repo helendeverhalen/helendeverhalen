@@ -45,7 +45,9 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 &nbsp;
 
-![](/uploads/versions/schermafbeelding-2015-10-15-om-20.04.13---x----2430-1412x---.png)
+![](/uploads/versions/axenroos-plaatje---x----600-349x---.png)
+
+&nbsp;
 
 ## &nbsp;
 

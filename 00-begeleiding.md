@@ -15,9 +15,10 @@ Bureau JIP begeleidt jonge mensen&nbsp;die, om wat voor reden dan ook, geremd wo
 
 Wij begeleiden jonge mensen&nbsp;die
 
-* nare gedachten over zichzelf hebben, zoals 'ze moeten mij weer hebben'&nbsp;of 'ik kan ook niets goed doen'
+* nare gedachten over zichzelf hebben, zoals ‘ze moeten mij weer hebben’&nbsp;of ‘ik kan ook niets goed doen’
 * faalangstig zijn, blokkeren bij toetsen, presentaties, spreekbeurten
 * zich verdrietig, bang, of eenzaam voelen
+* geadopteerd zijn, of in een pleeggezin wonen
 * zich naar voelen, zonder te weten waarom
 * niet goed weten hoe ze vrienden&nbsp;moeten maken
 * teruggetrokken zijn of juist een claimend gedrag vertonen

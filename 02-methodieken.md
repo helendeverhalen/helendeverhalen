@@ -47,8 +47,6 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 ![](/uploads/versions/axenroos-plaatje---x----600-349x---.png)
 
-&nbsp;
-
 ## Hartcoherentie
 
 Deze methodiek wordt gebruikt om stress te hanteren, je concentratie te verbeteren, met examenstress om te gaan.

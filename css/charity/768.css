@@ -55,6 +55,13 @@
 		min-width: 81%;
 	}
 
+/*  ****************************** RIGHT MENU *****************/
+
+	#list-menu {
+		display: none;
+	}
+
+/*  ****************************** HOME CONTENT *****************/
 
 	.page-template-page-fullwidth_withRightSidebar-php #leftNavBlock,
 	.single #leftNavBlock,

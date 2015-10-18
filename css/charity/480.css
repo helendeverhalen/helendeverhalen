@@ -13,10 +13,24 @@
 		margin-top: 0 !important;
 	}
 
+/*  ************************* HEADER *************************/
+
+	#logo { 
+		display: none;
+	}
+
+	#sliderWrap {
+		display: none;
+	}
+
+	#search-3 {
+		display: none;
+	}
+
 	body {
 		padding: 0 !important;
 		-webkit-background-size: 480px auto;
-		background-size: 480px auto;
+		background-size: 480px auto;s
 	}
 
 	#main h2 { font-size: 18px; line-height: 25px; }
@@ -51,10 +65,6 @@
 	.contacts .hentry > .span6 + .span6 { margin-top: 40px; }
 
 	.folio-desc a.read { margin-top: 0; } 
-
-	#logo {
-	  padding: 32px 35px!important;
-	}
 
 /*  *********************** END OF GENERAL ************************/
 

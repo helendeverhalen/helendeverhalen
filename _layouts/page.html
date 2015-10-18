@@ -3,10 +3,14 @@ layout: default
 ---
 
 {% if page.block-menu != false %}
+{% if page.index == true %}
+        <div id="list-menu">
+{% endif %}
 <div id="home-content" class="clearfix">
   <div class="container clearfix">
     <div class="row">
-      <div class="span3"><ul class="list">
+      <div class="span3">
+        <ul class="list">
           {% for p in site.pages %}
           {% if p.display-in-menu != false %}
           {% if p.title %}
@@ -15,7 +19,7 @@ layout: default
           {% endif %}
           {% endfor %}
         </ul>
-      </div>
+        </div>
       <div class="span9">
         <div class="wrap_content">
           <div class="page type-page status-publish hentry">
@@ -26,7 +30,11 @@ layout: default
     </div>
   </div>
 </div>
+{% if page.index == true %}
+</div>
+{% endif %}
 {% else %}
+<!-- We do not display the menu on the contact-page -->
 
 <div class="container">
   <div class="clearfix">

@@ -9,22 +9,22 @@
 	  min-width: 320px;
 	}
 
+/*  ************************* HEADER *************************/
+
+	#logo { 
+		display: none;
+	}
 	
 	nav.primary { background-position: -814px 0; }
 
-	#sliderWrap .metaslider .caption { padding: 0 10px; }
-
-	#sliderWrap .metaslider .caption-wrap h3 {
-	  font-size: 12px;
-	  line-height: 16px;
-	  margin: 0;
-	  padding-right: 90px;
-	  padding-top: 8px;
+	#sliderWrap {
+		display: none;
 	}
 
-	#sliderWrap .metaslider .caption-wrap { min-height: 15px; } 
-		#sliderWrap .metaslider .caption { height: 34px; }		
-	
+	#search-3 {
+		display: none;
+	}
+
 	.flexslider .flex-control-nav {
 	  bottom: 7px;
 	  right: 5px;

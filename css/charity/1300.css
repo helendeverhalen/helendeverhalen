@@ -9,11 +9,13 @@
 	html,
 	body {
 		min-width:1200px;
-		}
+	}
 
 /*  ************************* HEADER *************************/
 
-	#logo { padding: 35px 35px; }
+	#logo { 
+		padding: 35px 35px; 
+	}
 
 	.home #logo {
 		padding: 15px 115px;
@@ -39,6 +41,12 @@
 	#footer-logo img {
 		padding: 0px 0px 15px 0px;
 	}
+/*  ****************************** RIGHT MENU *****************/
+
+	#list-menu {
+		display: none;
+	}
+
 /*  ****************************** HOME CONTENT *****************/
 
 	.page-template-page-fullwidth_withRightSidebar-php #leftNavBlock,

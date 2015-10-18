@@ -27,7 +27,7 @@ EMDR (Eye Movement Densitization and Reprocessing) is een psychotherapie, ontwik
 
 ## Neurofeedback
 
-Neurofeedback is aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG scan (electroencephalography). De metingen worden vervolgens zichtbaar of hoorbaar gemaakt. Helaas is het mechanisme achter neurofeedback niet wetenschappelijk vastgesteld. Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau JIP).
+Hoewel het mechanisme achter neurofeedback niet wetenschappelijk is vastgelegd, wordt neurofeedback wel&nbsp;aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG-scan (electroencephalography). De cli&euml;nt&nbsp;zit achter de computer een filmpje te kijken (of een muziekje te luisteren). Meten de sensoren dan extra activiteit, dan stopt het filmpje heel kort. De hersenen doen dan extra hun best te focussen.&nbsp;Het filmpje gaat dan weer verder, totdat de sensoren weer extra activiteit meten, dan stopt het filmpje weer en de hersenen focussen dan weer.&nbsp;Op&nbsp;deze manier train je de hersenen te focussen.&nbsp;Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau JIP).
 
 ## &nbsp;
 

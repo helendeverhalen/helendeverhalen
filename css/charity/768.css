@@ -83,6 +83,10 @@
 	  width: 228px;
 	}
 
+/*  ************************* FOOTER *************************/
+	.home #footer-logo img {
+		padding: 0px 0px 15px 0px;
+	}
 /*  ****************************** HOME CONTENT *****************/
 
 	#sliderWrap .slides iframe {

@@ -35,6 +35,10 @@
 		min-width: 88%;
 	}
 
+/*  ************************* FOOTER *************************/
+	.home #footer-logo img {
+		padding: 0px 0px 15px 0px;
+	}
 /*  ****************************** HOME CONTENT *****************/
 
 	.page-template-page-fullwidth_withRightSidebar-php #leftNavBlock,

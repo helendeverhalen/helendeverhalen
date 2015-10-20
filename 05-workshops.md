@@ -62,3 +62,7 @@ Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n hef
 ## Grootouders van ‘gescheiden kleinkinderen’
 
 Voor een kind, wiens ouders gescheiden zijn, blijft&nbsp;het plekje bij opa en oma vaak vertrouwd en veilig. [Laat dat zo blijven!](/assets/downloads/kies_grootouders.pdf)
+
+&nbsp;
+
+[![](/uploads/versions/button---x----327-40x---.png)](__notset__)

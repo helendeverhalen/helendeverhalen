@@ -19,5 +19,6 @@ gem 'sass'
 gem 'uglifier'
 
 gem 'rake'
-
-gem 'puma'
+gem 'foreman'
+gem 'thin'
+gem 'rack-contrib'

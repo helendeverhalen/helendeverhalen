@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.1.2'
+
 gem 'jekyll'
 gem 'RedCloth'
 gem 'kramdown'
@@ -17,3 +19,5 @@ gem 'sass'
 gem 'uglifier'
 
 gem 'rake'
+
+gem 'puma'

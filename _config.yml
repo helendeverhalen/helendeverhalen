@@ -19,7 +19,12 @@ address_street_name: "Korteweegje 49"
 address_zip_code: "3247 BH"
 address_town: "Dirksland"
 
-  # Build settings
+analytics:
+  provider: google
+  google:
+    tracking_id: UA-69093439-1
+
+# Build settings
 markdown: kramdown
 
 gems: ['kramdown']

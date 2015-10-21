@@ -87,6 +87,8 @@ Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
 
 *[een boekje over zelfvertrouwen](__notset__)*
 
+&nbsp;
+
 ## &nbsp;
 
 ## Duiken

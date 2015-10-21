@@ -23,6 +23,8 @@ In maart 2015 was het zo ver. De eerste exemplaren van de glossy kwamen van de d
 
 [![Glossy downloaden](/assets/images/voorkant_glossy.jpg)](http://bureaujip.us10.list-manage.com/subscribe?u=238c48afeb81d59ef080df385&amp;id=0c296f472e)
 
+## &nbsp;
+
 ## Zanseverius
 
 In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig om van het ene huis naar het andere te gaan. En jij blijft ok&eacute;.
@@ -31,11 +33,15 @@ Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
 ![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
+## &nbsp;
+
 ## Biebhuusje
 
 In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt door leerlingen van de Prins Maurits, Middelharnis. Iedereen mag er boeken uithalen en later er weer terug zetten.
 
 ![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)
+
+## &nbsp;
 
 ## JIP-app
 
@@ -43,15 +49,21 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 ![](/uploads/versions/a4---x----250-354x---.jpg)
 
+## &nbsp;
+
 ## Apenverhalen
 
 Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
 ![](/uploads/versions/aapjesite---x----293-199x---.jpg)
 
+## &nbsp;
+
 ## Albani&euml;
 
 Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over gevoelens.
+
+## &nbsp;
 
 ## Blijf met je pootjes van me af
 
@@ -59,13 +71,15 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
 
+## &nbsp;
+
 ## Andere uitgaven
 
-Een boekje over 'hoe je om kan gaan met je gescheiden kind'. Wil je dit boekje hebben? [Contact ons](/contact/).
+Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boekje hebben? [Contact ons](/contact/).
 
 ![](/uploads/versions/semsite---x----232-177x---.jpg)
 
-Een boekje over 'dat je helemaal ok&eacute; bent, wat je ook doet'.
+Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
 
 &nbsp;
 

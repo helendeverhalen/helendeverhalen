@@ -7,7 +7,7 @@ image2: downloads_page2.jpg
 image-position: top
 ---
 
-# Hier kan je bestanden downloaden.
+# Download hier je brief of formulier
 
 * [coulancebrief](/assets/downloads/coulancebrief.pdf)
 * [behandelovereenkomst](/assets/downloads/behandelovereenkomst-oktober- 2015.pdf)

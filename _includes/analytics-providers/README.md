@@ -1,3 +1,0 @@
-# Providers
-
-Somehow cloudcannon doesn't understand if there are only files without extensions in a folder... Drop-in readme.md file for that reason...

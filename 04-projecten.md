@@ -83,6 +83,12 @@ Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
 
 &nbsp;
 
+## Prinsesje Liselore
+
+*[een boekje over zelfvertrouwen](__notset__)*
+
+## &nbsp;
+
 ## Duiken
 
 Sommige kinderen worden verrast met een duikervaring. [Je ontdekt dan dat je meer kan](/assets/downloads/ikkanveelmeerdanikdenk.pdf), dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.

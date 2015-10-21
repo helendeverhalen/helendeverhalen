@@ -9,8 +9,7 @@ image-position: top
 
 # Investering en vergoeding
 
-![Logo NFG](/uploads/versions/logo-nfg---x----152-98x---.jpg)
-![Logo SRBAG](/uploads/versions/logo_srbag---x----157-157x---.gif)
+![Logo NFG](/uploads/versions/logo-nfg---x----152-98x---.jpg) ![Logo SRBAG](/uploads/versions/logo_srbag---x----157-157x---.gif)
 
 Bureau JIP is geregistreerd bij de NFG &eacute;n bij het SRBAG. Dat betekent dat verschillende ziektekostenverzekeraars de begeleiding (gedeeltelijk) vergoeden. Het registratienummer van het NFG is 5705146501. Zie de website van de NFG.
 
@@ -45,6 +44,16 @@ Informeer bij uw eigen gemeente naar de mogelijkheden om tegemoetkoming in de ko
 ## Investering
 
 Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur.
+
+## &nbsp;
+
+## Evaluatie
+
+We stellen het op prijs als je ons evaluatieformulier invult.&nbsp;
+
+Dankjewel!
+
+[Klik hier](https://docs.google.com/spreadsheet/viewform?hl=en_US&amp;pli=1&amp;formkey=dEpFLUpLdzQ2MDBtUTJjMzJYdjJZNXc6MQ#gid=0)
 
 ## &nbsp;
 

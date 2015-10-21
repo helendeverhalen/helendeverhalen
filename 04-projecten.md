@@ -73,7 +73,7 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ## &nbsp;
 
-## Andere uitgaven
+## De ouders van Sam gaan scheiden
 
 Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boekje hebben? [Contact ons](/contact/).
 

@@ -49,9 +49,7 @@ Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt 
 
 ## Evaluatie
 
-We stellen het op prijs als je ons evaluatieformulier invult.&nbsp;
-
-Dankjewel!&nbsp;
+We stellen het op prijs als je ons evaluatieformulier invult.&nbsp;Dankjewel!&nbsp;
 
 [Klik hier](https://docs.google.com/spreadsheet/viewform?hl=en_US&amp;pli=1&amp;formkey=dEpFLUpLdzQ2MDBtUTJjMzJYdjJZNXc6MQ#gid=0)
 

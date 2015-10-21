@@ -79,8 +79,6 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 
 ![](/uploads/versions/semsite---x----232-177x---.jpg)
 
-Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
-
 &nbsp;
 
 ## Prinsesje Liselore

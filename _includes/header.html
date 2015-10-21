@@ -275,11 +275,11 @@
           <ul>
             <li class="ib-crumb ib-added menu-item menu-item-home">
               <span typeof="ib:Breadcrumb">
-                <a href="http://bureaujip.nl" rel="ib:url" property="ib:title">Welkom</a>
+                <a href="{{ site.url }}" rel="ib:url" property="ib:title">Welkom</a>
               </span>
             </li>
             <li class="ib-crumb ib-added menu-item ib-lastcrumb current-menu-item menu-item-type-post_type menu-item-object-page">
-              <a href="http://bureaujip.nl/{{ page.url }}">{{ page.title }}</a>
+              <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
             </li>
           </ul>
         </div>

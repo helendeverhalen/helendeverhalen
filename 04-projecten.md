@@ -87,7 +87,7 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 
 [*![](/uploads/versions/scannen0108---x----400-291x---.jpg)*](http://en.calameo.com/read/000223335d9a4d43fd4d8)
 
-[*een verhaaltje over zelfvertrouwen*](http://en.calameo.com/read/000223335d9a4d43fd4d8)
+[een verhaaltje over zelfvertrouwen](http://en.calameo.com/read/000223335d9a4d43fd4d8)
 
 &nbsp;
 
@@ -98,8 +98,6 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 ![](/uploads/versions/hendrik1a---x----386-400x---.jpg)[een boekje over rouw](__notset__)
 
 &nbsp;
-
-## &nbsp;
 
 ## Duiken
 

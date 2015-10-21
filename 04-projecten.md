@@ -85,6 +85,8 @@ Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
 
 ## Prinsesje Liselore
 
+&nbsp;
+
 [*![](/uploads/versions/scannen0108---x----400-291x---.jpg)*](http://en.calameo.com/read/000223335d9a4d43fd4d8)
 
 [*een verhaaltje over zelfvertrouwen*](http://en.calameo.com/read/000223335d9a4d43fd4d8)

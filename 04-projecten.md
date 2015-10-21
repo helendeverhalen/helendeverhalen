@@ -89,6 +89,14 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 
 [*een verhaaltje over zelfvertrouwen*](http://en.calameo.com/read/000223335d9a4d43fd4d8)
 
+&nbsp;
+
+## Hendrik van tien hoog
+
+&nbsp;
+
+![](/uploads/versions/hendrik1a---x----386-400x---.jpg)[een boekje over rouw](__notset__)
+
 ## &nbsp;
 
 ## Duiken

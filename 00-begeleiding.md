@@ -35,4 +35,3 @@ Samen met de ouders kijken we wat goed is voor hun kind. Medewerking van de oude
 
 Als je bij JIP komt, is je verhaal veilig.
 
-Kosten per sessie:  60 euro

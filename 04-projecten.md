@@ -103,7 +103,7 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 
 &nbsp;
 
-## Hendrik van tien hoog
+## Hendrik van veertien hoog
 
 &nbsp;
 

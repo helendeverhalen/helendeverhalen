@@ -31,6 +31,8 @@ In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig
 
 Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
+&nbsp;
+
 ![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
 ## &nbsp;
@@ -38,6 +40,8 @@ Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 ## Biebhuusje
 
 In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt door leerlingen van de Prins Maurits, Middelharnis. Iedereen mag er boeken uithalen en later er weer terug zetten.
+
+&nbsp;
 
 ![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)
 
@@ -47,6 +51,8 @@ In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt 
 
 Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier om te gaan met het kind.
 
+&nbsp;
+
 ![](/uploads/versions/a4---x----250-354x---.jpg)
 
 ## &nbsp;
@@ -54,6 +60,8 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 ## Apenverhalen
 
 Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+
+&nbsp;
 
 ![](/uploads/versions/aapjesite---x----293-199x---.jpg)
 
@@ -69,6 +77,8 @@ Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over
 
 Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
+&nbsp;
+
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
 
 ## &nbsp;
@@ -76,6 +86,8 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 ## De ouders van Sam gaan scheiden
 
 Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boekje hebben? [Contact ons](/contact/).
+
+&nbsp;
 
 ![](/uploads/versions/semsite---x----232-177x---.jpg)
 
@@ -104,5 +116,7 @@ Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boek
 ## Duiken
 
 Sommige kinderen worden verrast met een duikervaring. [Je ontdekt dan dat je meer kan](/assets/downloads/ikkanveelmeerdanikdenk.pdf), dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.
+
+&nbsp;
 
 ![](/uploads/versions/duiken---x----350-263x---.jpg)

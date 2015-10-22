@@ -43,13 +43,14 @@ Kinderen In Echtscheiding Situaties ([KIES](http://kiesvoorhetkind.nl)) is een p
 
 De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdekken, dat je bijvoorbeeld soms als een schildpad kan reageren als je je bang voelt. Je trekt je dan terug. Andere kinderen vertonen bij een bang gevoel het gedrag van een steenbok: ze slaan en schoppen. Soms is het handig om initiatief te tonen, zoals een leeuw dat kan. Op een ander moment kan het gewoon handig zijn om als een kameel maar gewoon te volgen. Kinderen leren door middel van de Axenroos, dat alle gevoelens ok&eacute; zijn, en dat bepaald gedrag soms handig is, en soms gewoon niet.
 
-[een boekje voor de kinderen](http://en.calameo.com/read/000223335272ddaefca5a)
+
 
 &nbsp;
 
 ![](/uploads/versions/axenroos-plaatje---x----600-349x---.png)
 
 een verhaaltje voor de kinderen
+[een boekje voor de kinderen](http://en.calameo.com/read/000223335272ddaefca5a)
 
 &nbsp;
 

@@ -59,7 +59,7 @@ Deze methodiek wordt gebruikt om stress te hanteren, je concentratie te verbeter
 
 [en hier](/assets/downloads/onzegevoelensenemoties.pdf)
 
-en hier nog een artikel
+[en hier nog een artikel](/assets/downloads/een_kloppend_geheel.pdf)
 
 ## &nbsp;
 

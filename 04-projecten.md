@@ -31,6 +31,8 @@ In dit boekje krijgt het `gescheiden kind’ de boodschap: Het is soms zo lastig
 
 Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 
+&nbsp;
+
 ![](/uploads/versions/prinsje-zanseverius---x----201-204x---.jpg)
 
 ## &nbsp;
@@ -38,6 +40,8 @@ Bestel het bij Teachtools, of bij je boekhandel in de buurt.
 ## Biebhuusje
 
 In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt door leerlingen van de Prins Maurits, Middelharnis. Iedereen mag er boeken uithalen en later er weer terug zetten.
+
+&nbsp;
 
 ![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)
 
@@ -47,6 +51,8 @@ In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt 
 
 Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier om te gaan met het kind.
 
+&nbsp;
+
 ![](/uploads/versions/a4---x----250-354x---.jpg)
 
 ## &nbsp;
@@ -54,6 +60,8 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 ## Apenverhalen
 
 Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+
+&nbsp;
 
 ![](/uploads/versions/aapjesite---x----293-199x---.jpg)
 
@@ -69,6 +77,8 @@ Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over
 
 Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
+&nbsp;
+
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
 
 ## &nbsp;
@@ -77,22 +87,36 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 Een boekje over ‘hoe je om kan gaan met je gescheiden kind’. Wil je dit boekje hebben? [Contact ons](/contact/).
 
-![](/uploads/versions/semsite---x----232-177x---.jpg)
+&nbsp;
 
-Een boekje over ‘dat je helemaal ok&eacute; bent, wat je ook doet’.
+![](/uploads/versions/semsite---x----232-177x---.jpg)
 
 &nbsp;
 
 ## Prinsesje Liselore
 
-*[een boekje over zelfvertrouwen](__notset__)*
+&nbsp;
+
+[*![](/uploads/versions/scannen0108---x----400-291x---.jpg)*](http://en.calameo.com/read/000223335d9a4d43fd4d8)
+
+[een verhaaltje over zelfvertrouwen](http://en.calameo.com/read/000223335d9a4d43fd4d8)
 
 &nbsp;
 
-## &nbsp;
+## Hendrik van veertien hoog
+
+&nbsp;
+
+![](/uploads/versions/hendrik1a---x----386-400x---.jpg)
+
+[een boekje over rouw](http://en.calameo.com/books/000223335829dd2f9a02e)
+
+&nbsp;
 
 ## Duiken
 
 Sommige kinderen worden verrast met een duikervaring. [Je ontdekt dan dat je meer kan](/assets/downloads/ikkanveelmeerdanikdenk.pdf), dan je denkt dat je kan &eacute;n je leert je ademhalingsoefeningen in de praktijk brengen.
+
+&nbsp;
 
 ![](/uploads/versions/duiken---x----350-263x---.jpg)

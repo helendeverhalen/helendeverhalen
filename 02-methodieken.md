@@ -47,7 +47,9 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 ![](/uploads/versions/axenroos-plaatje---x----600-349x---.png)
 
-## &nbsp;
+[een boekje voor de kinderen](http://en.calameo.com/read/000223335272ddaefca5a)
+
+&nbsp;
 
 ## Hartcoherentie
 
@@ -56,6 +58,8 @@ Deze methodiek wordt gebruikt om stress te hanteren, je concentratie te verbeter
 [Klik hier om er meer over te weten te komen](/assets/downloads/hartfocus.pdf)
 
 [en hier](/assets/downloads/onzegevoelensenemoties.pdf)
+
+[en hier nog een artikel](/assets/downloads/een_kloppend_geheel.pdf)
 
 ## &nbsp;
 

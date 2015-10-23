@@ -43,7 +43,7 @@ Informeer bij uw eigen gemeente naar de mogelijkheden om tegemoetkoming in de ko
 
 ## Investering
 
-Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur.
+Elke sessie kost  60 euro. Duurt het gesprek langer dan 75 minuten dan krijgt u een dubbele factuur. Vanaf 1 december&nbsp;2015 wordt alles per pin&nbsp;betaald.
 
 ## &nbsp;
 

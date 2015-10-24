@@ -59,15 +59,15 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 ## Apenverhalen
 
-Doe mee en bestel een aap, die jou allerlei verhalen vertelt. [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+Een bundel helende verhalen.
+
+[Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
 Binnenkort te verkrijgen via Bol.com en andere boekwinkels.
 
 &nbsp;
 
 ![](/uploads/versions/boekje,2---x----300-300x---.png)
-
-&nbsp;
 
 ## Albani&euml;
 

@@ -66,21 +66,6 @@ Voor een kind, wiens ouders gescheiden zijn, blijft&nbsp;het plekje bij opa en o
 &nbsp;
 
 
-## &nbsp
 
-display:       inline-block;
-padding:       8px 20px;
-background:    #145a4e url('http://dabuttonfactory.com/button.png?w=1&h=40&bgt=gradient&bgc=0ef2d0&ebgc=145a4e') repeat-x;
-background:    -moz-linear-gradient(#0ef2d0, #145a4e);
-background:    -o-linear-gradient(#0ef2d0, #145a4e);
-background:    -webkit-linear-gradient(#0ef2d0, #145a4e);
-background:    linear-gradient(#0ef2d0, #145a4e);
-border-radius: 5px;
-color:         #fff;
-font:          normal 700 24px/1 "Calibri", sans-serif;
-text-align:    center;
-text-shadow:   1px 1px 0 #000;
-
-## &nbsp
 
 

@@ -69,8 +69,6 @@ Binnenkort te verkrijgen via Bol.com en andere boekwinkels.
 
 &nbsp;
 
-## &nbsp;
-
 ## Albani&euml;
 
 Ook in Albani&euml; spelen de kinderen met grote mens-poppen en leren alles over gevoelens.

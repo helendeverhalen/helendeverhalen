@@ -65,8 +65,8 @@ Voor een kind, wiens ouders gescheiden zijn, blijft&nbsp;het plekje bij opa en o
 
 &nbsp;
 
-![](/uploads/versions/meer-informatie-groen---x----249-62x---.png)
+[!meer informatie](/uploads/versions/meer-informatie-groen---x----249-62x---.png)(https://bureaujip.nl/contact/)
 
-[![informatie](uploads/versions/button-kopie---x----408-40x---.png)](https://bureaujip.nl/contact/)
+[![meer informatie](uploads/versions/button-kopie---x----408-40x---.png)](https://bureaujip.nl/contact/)
 
 &nbsp;

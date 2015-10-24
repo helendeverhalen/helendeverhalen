@@ -65,7 +65,7 @@ Binnenkort te verkrijgen via Bol.com en andere boekwinkels.
 
 &nbsp;
 
-![](/uploads/versions/boekje---x----1181-1181x---.png)
+![](/uploads/versions/boekje,2---x----300-300x---.png)
 
 &nbsp;
 

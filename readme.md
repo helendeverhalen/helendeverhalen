@@ -28,7 +28,7 @@ Om quotes te gebruiken rondom een tekst, gebruik geen aanhalingstekens, maar beg
 Om te refereren naar iets op de site, bijvoorbeeld de contact pagina, gebruik "curly brackets". Probeer niet de naam
 van de website te gebruiken, maar `site.url`:
 
-    [contact]({{ site.url }}/contact
+    [contact]({{ site.url }}/contact)
 
 ## Lokaties
 

@@ -9,7 +9,7 @@ image-position: top
 
 # Investering en vergoeding
 
-![Logo NFG](/uploads/versions/logo-nfg---x----152-98x---.jpg) ![](/uploads/versions/logo-rbcz-old---x----100-98x---.png)
+![Logo NFG](/uploads/versions/logo-nfg---x----152-98x---.jpg) ![](/uploads/versions/logo-rbcz-old---x----150-146x---.png)
 &nbsp;
 
 Bureau JIP is geregistreerd bij de NFG &eacute;n bij het RBCZ. Dat betekent dat verschillende ziektekostenverzekeraars de begeleiding (gedeeltelijk) vergoeden. Het registratienummer van het NFG is 5705146501. Zie de website van de NFG.

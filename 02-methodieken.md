@@ -73,7 +73,7 @@ Het spel ‘[Alle Sterren van de Hemel](http://youtu.be/J8ji3LOJT6c)’ kan het 
 
 Kinderen kunnen vaak niet goed verwoorden wat hen dwars zit. Ze geven wel regelmatig signalen af; druk gedrag, of juist teruggetrokken, buikpijn, hoofdpijn, bedplassen, faalangst… Een helend verhaal blijkt een kind heel goed te kunnen helpen. De kracht van zo’n verhaal ligt hierin, dat het kind zich identificeert met de hoofdpersoon van het verhaal. Het zal de oplossing, aangeboden in het verhaal toepassen in zijn eigen situatie.
 
-[Miranda schreef het volgende voor haar dochtertje](/assets/downloads/kikker is misselijk kopie.pdf)
+[Miranda schreef het volgende voor haar dochtertje](/assets/downloads/kikker is misselijk kopie.pdf), die weken lang met haar hoofd in een emmer sliep sinds ze een keer had overgegeven in bed. 
 
 ## &nbsp;
 

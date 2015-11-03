@@ -85,6 +85,8 @@ Misbruik stoppen? Dit boekje zou zomaar een eerste stap kunnen zijn.&nbsp;
 
 ![](/uploads/versions/blijf-met-je-pootjes-van-me-af---x----153-211x---.jpg)
 
+[Nu verkrijgbaar](/assets/downloads/artikel blijf pootjes af.pdf)
+
 ## &nbsp;
 
 ## De ouders van Sam gaan scheiden

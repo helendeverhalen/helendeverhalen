@@ -55,7 +55,7 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 Deze methodiek wordt gebruikt om stress te hanteren, je concentratie te verbeteren, met examenstress om te gaan.
 
-Als je na een gesprek besluit door gaan met de stresseraser, dan kan je die huren voor 5 euro per week.
+Als je na een gesprek besluit door gaan met de stresseraser, dan bestaat de mogelijkheid die te huren voor 5 euro per week.
 
 [Klik hier om er meer over te weten te komen](/assets/downloads/hartfocus.pdf)
 

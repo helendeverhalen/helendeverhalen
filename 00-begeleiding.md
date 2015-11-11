@@ -19,6 +19,7 @@ Wij begeleiden jonge mensen&nbsp;die
 * faalangstig zijn, blokkeren bij toetsen, presentaties, spreekbeurten
 * zich verdrietig, bang, of eenzaam voelen
 * geadopteerd zijn, of in een pleeggezin wonen
+* gescheiden ouders hebben
 * zich naar voelen, zonder te weten waarom
 * niet goed weten hoe ze vrienden&nbsp;moeten maken
 * teruggetrokken zijn of juist een claimend gedrag vertonen
@@ -27,6 +28,7 @@ Wij begeleiden jonge mensen&nbsp;die
 * zich anders voelen dan anderen
 * last hebben van lichamelijke klachten, zoals hoofdpijn, buikpijn
 * nare ervaringen hebben en erover willen praten of tekenen of spelen
+* nare ervaringen hebben en er juist niet over willen praten
 
 
 Door onze begeleiding gaan mensen&nbsp;z&eacute;lf aan de slag. Ze gaan ervaren dat ze helemaal ok&eacute; zijn, en dat sommige dingen moeilijk voor ze zijn.

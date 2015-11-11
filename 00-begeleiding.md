@@ -17,7 +17,7 @@ Bureau JIP begeleidt jonge mensen die, om wat voor reden dan ook, geremd worden 
 
 ###### &nbsp;
 
-#### Wij begeleiden jonge mensen die
+### Wij begeleiden jonge mensen die
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Bureau JIP begeleidt jonge mensen die, om wat voor reden dan ook, geremd worden 
 
 &nbsp;
 
-#### We begeleiden ouders die
+### We begeleiden ouders die
 
 &nbsp;
 

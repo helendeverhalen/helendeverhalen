@@ -61,9 +61,9 @@ Wittig heeft een prachtige app gemaakt met tips en tools om op een mooie manier 
 
 Een bundel helende verhalen.
 
-[Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
+[Hier lees je zo’n apenverhaal over een aapje dat klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
-Verkrijgbaar via Bol.com en andere boekwinkels.
+Verkrijgbaar via [Bol.com](http://www.bol.com/nl/p/de-apen-kunnen-de-boom-in/9200000051246844/?Referrer=ADVNLGOO002008J-G-22250581095-S-73702945212-9200000051246844) en andere boekwinkels.
 
 &nbsp;
 

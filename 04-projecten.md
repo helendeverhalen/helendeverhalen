@@ -63,7 +63,7 @@ Een bundel helende verhalen.
 
 [Hier lees je zo’n apenverhaal over een aapje dat&nbsp;klem zat tijdens de geboorte](/assets/downloads/aapje-in-het-bos-moeilijke-geboorte.pdf)
 
-Binnenkort te verkrijgen via Bol.com en andere boekwinkels.
+Verkrijgbaar via Bol.com en andere boekwinkels.
 
 &nbsp;
 

@@ -13,11 +13,19 @@ image-position: top
 
 Bureau JIP is geregistreerd bij de NFG (VPMW) &eacute;n bij het RBCZ. Dat betekent dat verschillende ziektekostenverzekeraars de begeleiding (gedeeltelijk) vergoeden. Het registratienummer van het NFG is 5705146501. Zie de website van de NFG.
 
+&nbsp;
+
 De AGB-code van Bureau JIP is 90-50036.
+
+&nbsp;
 
 [Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een heel) vergoeden.](https://www.de-nfg.nl/images/NFGvergoedingen/20151125%20NFG%20-%20overzicht%20verzekeraars%202016.pdf)
 
+&nbsp;
+
 Ook zorgverzekeraar Agis vergoedt (deels) de K.I.E.S.-begeleiding.
+
+&nbsp;
 
 BTW.nummer: NL8196.17.167.BO1
 

@@ -19,7 +19,7 @@ De AGB-code van Bureau JIP is 90-50036.
 
 &nbsp;
 
-[Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een heel) vergoeden.](https://www.de-nfg.nl/images/NFGvergoedingen/20151125%20NFG%20-%20overzicht%20verzekeraars%202016.pdf)
+[Klik hier voor de lijst van zorgverzekeraars die Bureau JIP (voor een deel) vergoeden.](https://www.de-nfg.nl/images/NFGvergoedingen/20151125%20NFG%20-%20overzicht%20verzekeraars%202016.pdf)
 
 &nbsp;
 

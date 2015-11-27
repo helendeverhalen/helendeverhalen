@@ -43,7 +43,7 @@ In Dirksland staat op het Korteweegje een Biebhuusje. Dat biebhuusje is gemaakt 
 
 &nbsp;
 
-![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)
+[![](/uploads/versions/biebhuusje-site---x----189-181x---.jpg)](http://www.eilandennieuws.nl/2572/boeken-lenen-in-het-biebhuusje.html)
 
 ## &nbsp;
 

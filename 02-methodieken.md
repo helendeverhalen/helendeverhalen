@@ -13,7 +13,7 @@ image-position: top
 
 # Methodieken
 
-Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), Neurofeedback, K.I.E.S, Axenroos, Hartcoherentie,&nbsp;Helende verhalen,&nbsp;[MatriXmethode](http://matrixmethodeinstituut.nl/),&nbsp;Vriendenprogramma, Alle Sterren van de Hemel.&nbsp;Voor de volledigheid lichten we een aantal van deze methodes toe:
+Bureau JIP hanteert verschillende methodieken om met bepaalde ervaringen om te kunnen gaan. EMDR (Eye Movement Desensitization and Reprocessing), CGT (Cognitieve gedragstherapie), Neurofeedback, K.I.E.S, Axenroos, Hartcoherentie, Helende verhalen,&nbsp;[MatriXmethode](http://matrixmethodeinstituut.nl/), Vriendenprogramma, Alle Sterren van de Hemel. Voor de volledigheid lichten we een aantal van deze methodes toe:
 
 ## &nbsp;
 
@@ -27,7 +27,7 @@ EMDR (Eye Movement Densitization and Reprocessing) is een psychotherapie, ontwik
 
 ## Neurofeedback
 
-Hoewel het mechanisme achter neurofeedback niet wetenschappelijk is vastgelegd, wordt neurofeedback wel&nbsp;aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG-scan (electroencephalography). De cli&euml;nt&nbsp;zit achter de computer een filmpje te kijken (of een muziekje te luisteren). Meten de sensoren dan extra activiteit, dan stopt het filmpje heel kort. De hersenen doen dan extra hun best te focussen.&nbsp;Het filmpje gaat dan weer verder, totdat de sensoren weer extra activiteit meten, dan stopt het filmpje weer en de hersenen focussen dan weer.&nbsp;Op&nbsp;deze manier train je de hersenen te focussen.&nbsp;Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau JIP).
+Hoewel het mechanisme achter neurofeedback niet wetenschappelijk is vastgelegd, wordt neurofeedback wel aanbevolen door de American Society of Pediatrics voor kinderen met ADHD. Er worden sensoren op het hoofd geplaatst net als met een EEG-scan (electroencephalography). De cli&euml;nt zit achter de computer een filmpje te kijken (of een muziekje te luisteren). Meten de sensoren dan extra activiteit, dan stopt het filmpje heel kort. De hersenen doen dan extra hun best te focussen. Het filmpje gaat dan weer verder, totdat de sensoren weer extra activiteit meten, dan stopt het filmpje weer en de hersenen focussen dan weer. Op deze manier train je de hersenen te focussen. Een mogelijk alternatief voor neurofeedback is CGT (cognitieve gedragstherapie, eveneens te volgen bij Bureau JIP).
 
 ## &nbsp;
 
@@ -60,6 +60,8 @@ Als je na een gesprek besluit door gaan met de stresseraser, dan bestaat de moge
 [Klik hier om er meer over te weten te komen](/assets/downloads/hartfocus.pdf)
 
 [en hier](/assets/downloads/onzegevoelensenemoties.pdf)
+
+[ook geschikt voor bedrijven](https://youtu.be/Wzm1L5FU-Rc)
 
 [en hier nog een artikel](/assets/downloads/een_kloppend_geheel.pdf)
 

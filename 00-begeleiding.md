@@ -58,4 +58,6 @@ Samen met de ouders kijken we wat goed is voor hun kind. Medewerking van de oude
 
 &nbsp;
 
-Als je bij JIP komt, is je verhaal veilig.
+Bij JIP is je verhaal veilig. Juist als je kind/jongere bent!
+
+&nbsp;

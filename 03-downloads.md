@@ -17,4 +17,3 @@ image-position: top
 
 
 
-<iframe src="https://docs.google.com/forms/d/1EAQaNEBAcka9GPguldcWGr6PfteM1qyHKlK4XeZaDMA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Bezig met laden...</iframe>

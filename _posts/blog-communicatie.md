@@ -1,5 +1,11 @@
+---
+layout: post
+title: Kijk naar je kind!
+date: 2015-11-05T20:06:00.000Z
+---
+
+&nbsp; 
  
-Kijk naar je kind! 
 
 Tips voor (ex)partners om beter te communiceren
 
@@ -19,3 +25,5 @@ Ga op onderzoek uit. Waar komt het gedrag van mij vandaan?
 Als je je eigen oude pijn aanpakt, is er weer plaats voor nieuwe vreugde. 
 
 Jullie kinderen zullen in die omgeving, waar weer gecommuniceerd wordt, zich verder ontwikkelen. Dat hebben ze nodig. Kijk naar je kind!
+
+&nbsp;

@@ -6,11 +6,11 @@ date: 2016-01-05T20:06:00.000Z
 
 &nbsp;
 
-#### Tips voor (ex)partners om beter te communiceren
+### Tips voor (ex)partners om beter te communiceren
 
 &nbsp;
 
-##### Heb oog voor oude pijn
+#### Heb oog voor oude pijn
 
 &nbsp;
 

@@ -16,7 +16,7 @@ Kijk eens naar je oude pijn, naar die van jou en die van de ander. ‘Ploft’ j
 
 Ga op onderzoek uit. Waar komt het gedrag van mij vandaan?
 
-Als je je eigen oude pijn aanpakt, is er weer plaats voor nieuwe vreugde.
+Als je je eigen oude pijn aanpakt, is er weer plaats voor nieuwe vreugde. (Er zijn verschillende manieren, o.a. EMDR en de MatriXmethode)&nbsp;
 
 Jullie kinderen zullen in die omgeving, waar weer gecommuniceerd wordt, zich verder ontwikkelen. Dat hebben ze nodig. Kijk naar je kind!
 

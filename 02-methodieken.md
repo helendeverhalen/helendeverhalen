@@ -49,6 +49,27 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 [een boekje voor de kinderen](http://en.calameo.com/read/000223335272ddaefca5a)
 
+## &nbsp;
+
+## MatriXmetode
+
+&nbsp;
+
+JIP hanteert ook de MAtriXmethode, een snelle manier om oa vlug van je volle hoofd, of van je nare gevoelens af te komen.
+
+&nbsp;
+
+![](/uploads/versions/12782227_10205669740130559_1574301735_n---x----960-540x---.jpg)Zodat is super nieuws!!!!&nbsp;
+
+Het is eindelijk zover.
+Kijken jullie ook zondag aanstaande......
+
+Ingrid Stoop van het ‪#‎MatriXmethode‬ Instituut is de ontwikkelaarster van de #MatriXMethode .&nbsp;
+De veel besproken MatriXmethode is een veel belovende gesprekstechniek waarmee wij als professionals op een effici&euml;nte en effectieve wijze kunnen coachen.&nbsp;
+Snel gewenste resultaten en geen lange trajecten en kosten.
+
+[Klik hier voor meer informatie](http://matrixmethodeinstituut.nl)
+
 &nbsp;
 
 ## Hartcoherentie

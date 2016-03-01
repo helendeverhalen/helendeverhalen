@@ -67,7 +67,7 @@ Voor een kind, wiens ouders gescheiden zijn, blijft het plekje bij opa en oma va
 
 ## Ruim je hoofd op
 
-Door middel van de MatriXmethode ruimen we met elkaar het hoofd op. Wat een verademing! Zie ook onze blog.
+Door middel van de MatriXmethode ruimen we met elkaar het hoofd op. Wat een verademing! [Zie ook onze blog](https://bureaujip.nl/blog/2015/10/12/een-vol-hoofd).
 
 &nbsp;
 

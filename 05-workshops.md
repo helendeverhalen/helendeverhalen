@@ -7,7 +7,7 @@ image2: workshops_page2.jpg
 image-position: left
 ---
 
-# Workshops
+# &nbsp;
 
 ## &nbsp;
 
@@ -45,13 +45,13 @@ Tijdens de vier bijeenkomsten praten we samen over gevoelens en gedrag, grenzen 
 
 Een heel interessante cursus!
 
-[Contact&nbsp;ons voor informatie](/contact/)
+[Contact ons voor informatie](/contact/)
 
 ## &nbsp;
 
 ## Gescheiden opvoeden
 
-Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact&nbsp;met andere gescheiden ouders kan fijn en goed zijn.
+Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n heftige periode, maar ook erna kan je wel wat tips gebruiken. Ook contact met andere gescheiden ouders kan fijn en goed zijn.
 
 [Lees meer](/assets/downloads/kies_gescheiden_opvoeden.pdf)
 
@@ -61,7 +61,7 @@ Na een scheiding verandert er veel voor ouders &eacute;n kinderen. In zo’n hef
 
 ## Grootouders van ‘gescheiden kleinkinderen’
 
-Voor een kind, wiens ouders gescheiden zijn, blijft&nbsp;het plekje bij opa en oma vaak vertrouwd en veilig. [Laat dat zo blijven!](/assets/downloads/kies_grootouders.pdf)
+Voor een kind, wiens ouders gescheiden zijn, blijft het plekje bij opa en oma vaak vertrouwd en veilig. [Laat dat zo blijven!](/assets/downloads/kies_grootouders.pdf)
 
 &nbsp;
 

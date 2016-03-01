@@ -53,8 +53,6 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 ## MatriXmetode
 
-&nbsp;
-
 JIP hanteert ook de MAtriXmethode, een snelle manier om oa vlug van je volle hoofd, of van je nare gevoelens af te komen.
 
 &nbsp;

@@ -529,7 +529,7 @@ li {
 #logo {
   position: relative;
   display: block;
-  background: #20cf20;
+  background: #1db91d;
   padding: 35px 35px;
 }
 
@@ -554,7 +554,7 @@ li {
 
 /* EasyTooltip */
 .tooltip {1
-  background: none repeat scroll 0 0 ##20cf20;
+  background: none repeat scroll 0 0 #1db91d;
   border: 1px solid #000000;
   color: #EEEEEE;
   display: none!important;

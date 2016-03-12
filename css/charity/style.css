@@ -1883,7 +1883,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 
 
 #beforeFooter div[id*="text"] {
-  background: #4f8482;
+  background: 		#005d00;
   padding: 0 30px;
   text-align: center;
 }

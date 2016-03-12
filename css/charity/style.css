@@ -1289,7 +1289,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
   margin: 0;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] .text {
-  background: #4f8482;
+  background:	#006400;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] .text {
   background: #4c7793;

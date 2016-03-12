@@ -1346,7 +1346,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 
 #main .bannerBox .flipText .priceDescr {
   text-transform: uppercase;
-  color: #006400;
+  color:#4f8482;
   font: 300 18px/24px 'Open Sans', sans-serif;
   padding: 0;
   margin: 60px 0 10px 0;
@@ -1875,7 +1875,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 
 #beforeFooter {
   padding: 47px 0 0;
-  background: #2eb6c2;
+  background: 	#007d00;
   display: none;
 }
 .home #beforeFooter { display: block; }

@@ -8,18 +8,10 @@ image-position: right
 block-menu: false
 ---
 
-Wij, Elly van Driel en Geertje van Rossum vormen samen Bureau JIP.
+De Helende Verhalen worden geschreven door Geertje van Rossum.
 
 Contactinformatie:
 
-Elly: 0623549707
-
-Geertje: 0648734230
+Geertje: 0611287304
 
 Adres: Korteweegje 49, 3247 BH Dirksland
-
-Zijn er onverhoopt klachten, stuur een mailtje naar info@bureaujip.nl.
-
-Kunnen wij u niet naar tevredenheid helpen, informeer bij onze beroepsvereniging de NFG.
-
-[Klik hier voor de klachtenbrochure.](/assets/downloads/klachtenbrochure_nfg_web.pdf)

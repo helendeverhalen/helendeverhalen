@@ -3,17 +3,18 @@ permalink: /blog/:year/:month/:day/:title
 
 # Site settings
 title: Bureau Jip
-email: info@bureaujip.nl
+email: geertjevanrossum@gmail.com
 description: >
-  Bureau Jip helpt kinderen in moeilijke situaties. Kinderen in de rouw,
-  kinderen in echtscheidingen, kinderen die faalangst hebben, kinderen die
-  gepest worden, en kinderen die nare dingen hebben mee gemaakt.
+  Kinderen kunnen vaak niet goed verwoorden wat hen dwars zit. 
+  Ze geven wel regelmatig signalen af; druk gedrag, of juist 
+  teruggetrokken, buikpijn, hoofdpijn, bedplassen, faalangst...
+  Een helend verhaal blijkt een kind heel goed te kunnen helpen.
 baseurl: ""
-url: "https://bureaujip.nl"
-twitter_username: bureaujip
-github_username:  bureaujip
+url: "https://helendeverhalen.nl"
+twitter_username: helendeverhalen
+github_username:  helendeverhalen
 
-year: 2015
+year: 2016
 
 address_street_name: "Korteweegje 49"
 address_zip_code: "3247 BH"
@@ -22,7 +23,7 @@ address_town: "Dirksland"
 analytics:
   provider: google
   google:
-    tracking_id: UA-69093439-1
+    tracking_id: not-yet
 
 # Build settings
 markdown: kramdown

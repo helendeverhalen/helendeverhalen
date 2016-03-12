@@ -2,10 +2,11 @@
 layout: page
 title: Methodieken
 permalink: /methodieken/
-image: 'methodieken_page.jpg'
+image: methodieken_page.jpg
 image2: methodieken_page2.jpg
 image-position: top
 ---
+
 
 ![](/uploads/versions/plaatje-bij-methodieken---x----300-299x---.jpg)
 
@@ -51,20 +52,9 @@ De Axenroos is afgeleid van de Roos van Leary. Het gaat erom dat kinderen ontdek
 
 ## &nbsp;
 
-## MatriXmetode
+## MatriXmethode
 
-JIP hanteert ook de MAtriXmethode, een snelle manier om oa vlug van je volle hoofd, of van je nare gevoelens af te komen.
-
-&nbsp;
-
-![](/uploads/versions/12782227_10205669740130559_1574301735_n---x----960-540x---.jpg)Zodat is super nieuws!!!!&nbsp;
-
-Het is eindelijk zover.
-Kijken jullie ook zondag aanstaande......
-
-Ingrid Stoop van het ‪#‎MatriXmethode‬ Instituut is de ontwikkelaarster van de #MatriXMethode .&nbsp;
-De veel besproken MatriXmethode is een veel belovende gesprekstechniek waarmee wij als professionals op een effici&euml;nte en effectieve wijze kunnen coachen.&nbsp;
-Snel gewenste resultaten en geen lange trajecten en kosten.
+JIP hanteert ook de MAtriXmethode, een snelle manier om oa van je volle hoofd, je nare gevoelens, angsten af te komen.
 
 [Klik hier voor meer informatie](http://matrixmethodeinstituut.nl)
 

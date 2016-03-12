@@ -1905,7 +1905,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 }
 
 #beforeFooter div[id*="text"] .donate {
-  background: #1F94B7;
+  background: 	#e3f988;
   display: inline-block;
   text-decoration: none;
   font: 300 24px/50px 'Open Sans', sans-serif;

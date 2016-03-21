@@ -12,10 +12,10 @@ image-position: top
 
 &nbsp;
 
-![](/uploads/versions/ikbenhelemaaloke---x----315-78x---.jpg)Dit kleurboek vertelt je kind dat je helemaal ok&eacute; bent, wat je ook doet.
+Dit kleurboek vertelt je kind dat je helemaal ok&eacute; bent, wat je ook doet.
 
 &nbsp;
 
-![](/uploads/versions/het-huis-van-steenbok---x----347-80x---.jpg)Al kleurend kom je erachter wat de dieren zijn van de axenroos. Zo kan je ontdekken dat gedrag niet iets is, wat je bent, maar wat je hebt.
+Al kleurend kom je erachter wat de dieren zijn van de axenroos. Zo kan je ontdekken dat gedrag niet iets is, wat je bent, maar wat je hebt.
 
 &nbsp;

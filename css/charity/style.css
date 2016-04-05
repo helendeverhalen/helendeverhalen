@@ -483,14 +483,14 @@ li {
   padding-top: 20px;
 }
 #header .span6 > div[id*="text"] {
-  color: #boc4de;
+  color: #adbce6;
   text-transform: uppercase;
   font: 300 18px/28px 'Open Sans', sans-serif;
   margin-right: 45px;
   float: right;
 }
 #header .span6 > div[id*="text"] a {
-  color: #boc4de;
+  color: #adbce6;
   text-decoration: none;
   text-transform: uppercase;
   font: 900 24px/28px 'Open Sans', sans-serif;
@@ -529,7 +529,7 @@ li {
 #logo {
   position: relative;
   display: block;
-  background: #boc4de;
+  background: #adbce6;
   padding: 35px 35px;
 }
 

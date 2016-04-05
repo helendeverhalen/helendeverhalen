@@ -15,7 +15,7 @@ body {
 }
 body{
   background: #f1f1f1;
-  color: #7ff805;
+  color: #0089cc;
   font: 18px/26px 'Open Sans', sans-serif;
   font-family: 'Open Sans', serif !important;
   /* position:relative; */
@@ -65,7 +65,7 @@ dl dt {
   margin-bottom:.2em;
   font-size:18px;
   line-height:1.2em;
-  color:#78c40f;
+  color:#0089cc;
 }
 dl dd {
   padding:0 0 0 32px;
@@ -131,7 +131,7 @@ dl dd {
   margin: 0;
   border: none;
   display: block;
-  color: #78c40f;
+  color: #0089cc;
   text-align: left;
   font: bold 21px/25px 'Open Sans', sans-serif;
 }
@@ -483,14 +483,14 @@ li {
   padding-top: 20px;
 }
 #header .span6 > div[id*="text"] {
-  color: #56e556;
+  color: #0089cc;
   text-transform: uppercase;
   font: 300 18px/28px 'Open Sans', sans-serif;
   margin-right: 45px;
   float: right;
 }
 #header .span6 > div[id*="text"] a {
-  color: #56e556;
+  color: #0089cc;
   text-decoration: none;
   text-transform: uppercase;
   font: 900 24px/28px 'Open Sans', sans-serif;
@@ -529,7 +529,7 @@ li {
 #logo {
   position: relative;
   display: block;
-  background: #1db91d;
+  background: #0089cc;
   padding: 35px 35px;
 }
 
@@ -554,7 +554,7 @@ li {
 
 /* EasyTooltip */
 .tooltip {1
-  background: none repeat scroll 0 0 #1db91d;
+  background: none repeat scroll 0 0 #0089cc;
   border: 1px solid #000000;
   color: #EEEEEE;
   display: none!important;
@@ -1279,12 +1279,12 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
 }
 
 #bannerArea .row div[id*="my_footerbannerwidget"] .text {
-  background: #748d5f;
+  background: #0089cc;
   padding: 23px;
   margin: 0;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] .text {
-  background:	#006400;
+  background:	#005891;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] .text {
   background: #4c7793;
@@ -1330,7 +1330,7 @@ html>/**/body #menu-left-menu > li:hover > a .back { z-index: 2; }
   transition: opacity .5s ease-in-out;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] .bannerBox .flipText {
-  border: 20px solid #748d5f;
+  border: 20px solid #0089cc;
 }
 #bannerArea .row div[id*="my_footerbannerwidget"] + div[id*="my_footerbannerwidget"] .bannerBox .flipText {
   border: 20px solid #4f8482;

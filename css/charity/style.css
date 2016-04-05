@@ -483,14 +483,14 @@ li {
   padding-top: 20px;
 }
 #header .span6 > div[id*="text"] {
-  color: #0089cc;
+  color: #boc4de;
   text-transform: uppercase;
   font: 300 18px/28px 'Open Sans', sans-serif;
   margin-right: 45px;
   float: right;
 }
 #header .span6 > div[id*="text"] a {
-  color: #0089cc;
+  color: #boc4de;
   text-decoration: none;
   text-transform: uppercase;
   font: 900 24px/28px 'Open Sans', sans-serif;

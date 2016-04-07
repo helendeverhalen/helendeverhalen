@@ -1,6 +1,6 @@
 ---
 layout: page
-title: aap snurkey
+title: snurkey
 permalink: /snurken/
 image: snurken_page.jpg
 image2: snurken_page2.jpg

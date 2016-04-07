@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uitgaven
+title: portfolio
 permalink: /uitgaven/
 image: uitgaven_page.jpg
 image2: uitgaven_page2.jpg

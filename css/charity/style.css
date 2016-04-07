@@ -490,7 +490,7 @@ li {
   float: right;
 }
 #header .span6 > div[id*="text"] a {
-  color: #boc4de;
+  color: #ff0033;
   text-decoration: none;
   text-transform: uppercase;
   font: 900 24px/28px 'Open Sans', sans-serif;

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kleurboeken
+title: Kleuren
 permalink: /kleurboeken/
 image: kleurboeken_page.jpg
 image2: kleurboeken_page2.jpg

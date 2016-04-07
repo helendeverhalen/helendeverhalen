@@ -8,7 +8,7 @@ image-position: top
 ---
 
 
-# Kleurboeken
+# Kleuren
 
 &nbsp;
 

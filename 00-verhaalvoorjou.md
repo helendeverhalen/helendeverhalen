@@ -1,6 +1,6 @@
 ---
 layout: page
-title: een verhaal voor jou
+title: verhaal voor jou
 permalink: /verhaalvoorjou/
 image: verhaalvoorjou_page.jpg
 image2: verhaalvoorjou_page2.jpg
